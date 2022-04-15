@@ -1,11 +1,13 @@
 # SpecsCapstone
 
 ## **Capstone goal**
+---
 I hate all the workout trackers I've tried. They never have all the features I want, and a lot of the time the feature I want to use is so poorly done, it's a pain to use. To fix this, I've decided to make my own workout tracker.
 <br>
 <br>
 
 ## **MVP**
+---
 
 | Feature  | Details               |
 |----------|-----------------------|
