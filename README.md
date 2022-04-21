@@ -16,3 +16,11 @@ I hate all the workout trackers I've tried. They never have all the features I w
 | Working Out | <ul style="list-style:none;padding-left:0"><li>Workouts are time stamped to show how long a workout takes</li><li>Convenitly refer to the previous workout's notes to progress from you last workout</li><li>Easily record your results after each movement</li><li>Project next workout's benchmarks</li></ul> |
 | Social Workout | <ul style="list-style:none;padding-left:0"><li>Each of the User's workouts and overall progress can be shared with the public, followers, or kept private.</li></ul> |
 | Tracking / Reoprts | <ul style="list-style:none;padding-left:0"><li>Show how much work you've put into you workouts (mass lifted, time workingout, etc.)</li><li>Track body measurements</li></ul> |
+
+
+<br>
+<br>
+
+
+## **Database Desgin:**
+![Database Model for capstone](./databaseDesign.png)
